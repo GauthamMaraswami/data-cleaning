@@ -1,0 +1,30 @@
+inventions and innovations cannnot be done by a machine
+Supervised - give both input and output
+Un supervised -have only inputs but no output
+Reinforcement -Deep learning both are not known
+ 
+learn supervised before deeplearning
+workflow:-  Pick up a problem 
+			Represent Data
+			Apply an algorithm
+types
+	Clssifications
+	Regression:-  predictions
+	Clustering:-  divide users into groups based on some coommon attributes
+	Recommendations
+looking for features in data 
+Decision tree problem computation of tree traversal is expensive
+always work with the feedback loop
+always has to develop
+linear Regression linarly incresing data set
+gradient descent Least squares minimize the errors
+visualization removes outlyers- out of range values
+								data to be scrapped
+first step of analyzation is visualization
+
+
+
+
+
+
+
